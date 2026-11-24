@@ -1,8 +1,8 @@
 names = {
     0: "Alice",
     1: "Bob",
-    2: "Charlie",
-    3: "Diana"
+    2: "Kevin",
+    3: "Eve"
 }
 
 def greet(name):
